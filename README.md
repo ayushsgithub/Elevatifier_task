@@ -2,6 +2,8 @@
 
 This project is a responsive news dashboard webpage created using React.js, Linesnews Api and Tailwind CSS. It displays a list of posts fetched from the API. The app allows users to view headlines, news icons, sources, and hashtags for various categories. The project include features such as category filter, a real-time search functionality for an enhanced user experience, responsive design, and a "Read more" button for each blog post.
 
+[Production Link](https://news-dashboard-elevatifier.netlify.app/)
+
 ![Weather App Screenshot](https://github.com/ayushsgithub/Elevatifier_task/blob/main/public/Screenshot%202023-10-29%20152832.png?raw=true)
 
 ![Weather App Screenshot](https://github.com/ayushsgithub/Elevatifier_task/blob/main/public/Screenshot%202023-10-29%20142652.png?raw=true)
